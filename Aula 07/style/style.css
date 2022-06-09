@@ -6,7 +6,8 @@ margin: auto;
   text-align: center;
 
   background-image: url(../img/nezukogun.jpg);
-  background-size: 50%;
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 input{
